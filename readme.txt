@@ -1,1 +1,0 @@
-This is a code written in Python in order to create statistical chart which finds how many bugs solved a group of employees in specific time
